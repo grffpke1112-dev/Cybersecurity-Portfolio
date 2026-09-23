@@ -2,7 +2,7 @@
 Linux Security Lab and Cybersecurity Learning Portfolio
 # Day 1 - Linux Security Lab
 
-## Objective
+## 學習目標
 
 建立 Linux 資安實驗環境，並學習收集與分析：
 
