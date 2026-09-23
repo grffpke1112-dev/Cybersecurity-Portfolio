@@ -1,0 +1,49 @@
+# Cybersecurity Portfolio
+
+Linux Security | Network Security | SOC | Incident Response
+
+## About This Portfolio
+
+This repository documents my hands-on cybersecurity learning journey.
+
+## Skills
+
+- Linux
+- Networking
+- SSH Security
+- Log Analysis
+- Wireshark
+- Web Security
+- SOC
+- Incident Response
+
+## Labs
+
+### Day 1 - Linux Security Lab
+
+- Linux system enumeration
+- User and group analysis
+- Network analysis
+- Port and service enumeration
+- Process analysis
+- SSH authentication log analysis
+
+### Day 2 - Linux Permissions
+
+Coming soon...
+
+## Tools
+
+Linux
+Wireshark
+Cisco Packet Tracer
+GitHub
+
+## Learning Roadmap
+
+Linux
+→ Network
+→ Web Security
+→ SOC
+→ Incident Response
+→ Cybersecurity Engineer
